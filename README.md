@@ -1,5 +1,8 @@
 
 # RC_GDUT_ROBOT_SIMULATION
+
+# 贡献者 颜钦煜 唐子卿
+
 # 使用
 观看ros教程 http://www.autolabor.com.cn/book/ROSTutorials/index.html
 
