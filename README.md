@@ -1,13 +1,13 @@
 
 # RC_GDUT_ROBOT_SIMULATION
-#使用
+# 使用
 观看ros教程 http://www.autolabor.com.cn/book/ROSTutorials/index.html
 
 看完前六章并下载对应的依赖
 
 在下载仓库后直接打开控制台运行`roslaunch robo_test.launch `
 
-#介绍
+# 介绍
 
 ## 1. 场地
 
