@@ -1,5 +1,13 @@
 
 # RC_GDUT_ROBOT_SIMULATION
+#使用
+观看ros教程 http://www.autolabor.com.cn/book/ROSTutorials/index.html
+
+看完前六章并下载对应的依赖
+
+在下载仓库后直接打开控制台运行`roslaunch robo_test.launch `
+
+#介绍
 
 ## 1. 场地
 
@@ -9,6 +17,8 @@
 ---
 
 ## 2. 机器人
+
+使用https://github.com/6-robot/wpr_simulation.git中的机器人模型
 
 1.机器人底盘为三全向轮，可通过对应的cmd#_vel话题控制速度
 
